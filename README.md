@@ -2,7 +2,7 @@
 
 ### [SaleAdmin](https://saleadmin-saasdashboard.netlify.app)
 
-![Chat Application](https://ibb.co/LdykFK8)
+![Chat Application](https://i.postimg.cc/9Qf57qcD/Screenshot-16.png)
 
 ## Introduction
 
